@@ -2,7 +2,7 @@
 
 ### 💼 About Myself
 
-- 👀 I’m interested in analysis and prediction related to product analytics and user experiences. My work typically focuses on A/B (hypothesis) testing, predictive analytics, reporting & insights, and defining new metrics. The tools I primarily use are Python, R, SQL, Tableau, and Adobe Analytics.
+- 👀 I’m interested in analysis and prediction related to product analytics and user experiences. My work typically focuses on A/B (hypothesis) testing, predictive analytics, reporting & insights, and defining new metrics. The tools and libraries I primarily use are Python, SQL, scikit learn, PyTorch, Tensorflow and PowerBI.
 
 - 🌱 I’m currently learning LLM, vector databases
 
